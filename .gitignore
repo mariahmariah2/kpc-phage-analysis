@@ -1,0 +1,8 @@
+data/
+*.zip
+*.fasta
+*.fa
+ncbi_dataset/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,70 @@
+strain,ST,K_locus,K_type,K_confidence,O_locus,O_type,Omp_mutations,Carbapenemase_genes,ESBL_genes,resistance_score,virulence_score,has_carbapenemase
+GCF_024990975.1_ASM2499097v1_genomic,ST147,KL64,K64,Typeable,OL2α.1,O2α,OmpK35:p.Arg60fs,NDM-1,CTX-M-15,2,1,True
+GCF_024989275.1_ASM2498927v1_genomic,ST307-1LV,KL102,unknown (KL102),Typeable,OL2α.2,O2β,-,-,CTX-M-15,1,1,False
+GCF_024989575.1_ASM2498957v1_genomic,ST48,KL62,K62,Typeable,OL2α.1,"O1αβ,2α",-,-,CTX-M-15,1,1,False
+GCF_024989565.1_ASM2498956v1_genomic,ST15,KL24,K24,Typeable,OL2α.1,"O1αβ,2α",OmpK35:p.Ala229fs,-,CTX-M-15,1,1,False
+GCF_024989555.1_ASM2498955v1_genomic,ST3397,KL8,K8,Typeable,OL2α.2,"O1αβ,2β",-,-,-,0,0,False
+GCF_024989505.1_ASM2498950v1_genomic,ST20,KL28,K28,Typeable,OL2α.2,"O1αβ,2β",-,-,CTX-M-15,1,1,False
+GCF_024989455.1_ASM2498945v1_genomic,ST37,KL145,unknown (KL145),Untypeable,OL10,O10,-,-,-,0,0,False
+GCF_024989415.1_ASM2498941v1_genomic,ST307,KL102,unknown (KL102),Typeable,OL2α.2,O2β,-,-,CTX-M-15,1,0,False
+GCF_024989395.1_ASM2498939v1_genomic,ST39,KL2,K2,Typeable,OL2α.1,"O1αβ,2α",-,-,CTX-M-15,1,1,False
+GCF_024989355.1_ASM2498935v1_genomic,ST5596,KL15,K15,Typeable,OL4,O4,-,-,-,0,0,False
+GCF_024989255.1_ASM2498925v1_genomic,ST751,KL125,unknown (KL125),Typeable,OL3γ,O3γ,OmpK35:p.Phe169fs,-,CTX-M-15,1,1,False
+GCF_024989235.1_ASM2498923v1_genomic,ST188-1LV,KL116,unknown (KL116),Typeable,OL2α.1,"O1αβ,2α",-,-,CTX-M-15,1,0,False
+GCF_024989145.1_ASM2498914v1_genomic,ST17,KL25,K25,Typeable,OL5,O5,-,-,CTX-M-15,1,1,False
+GCF_024989025.1_ASM2498902v1_genomic,ST101,KL17,K17,Typeable,OL2α.1,"O1αβ,2α",-,-,CTX-M-15,1,0,False
+GCF_024989015.1_ASM2498901v1_genomic,ST3609,KL117,unknown (KL117),Typeable,OL2α.1,"O1αβ,2α",-,-,-,0,0,False
+GCF_024988955.1_ASM2498895v1_genomic,ST336,KL25,K25,Typeable,OL5,O5,-,-,CTX-M-15,1,0,False
+GCF_024988765.1_ASM2498876v1_genomic,ST1927,KL2,K2,Typeable,OL2α.2,"O1αβ,2β",-,-,CTX-M-15,1,1,False
+GCF_024988755.1_ASM2498875v1_genomic,ST14,KL2,K2,Typeable,OL2α.1,"O1αβ,2α",-,-,CTX-M-15,1,1,False
+GCF_024988725.1_ASM2498872v1_genomic,ST3692,KL8,K8,Typeable,OL2α.2,O2β,-,-,-,0,0,False
+GCF_024989615.1_ASM2498961v1_genomic,ST45,KL24,K24,Typeable,OL2α.1,O2α,-,-,-,0,0,False
+GCF_024989795.1_ASM2498979v1_genomic,ST39,KL62,K62,Typeable,OL2α.1,"O1αβ,2α",-,-,-,0,1,False
+GCF_024990455.1_ASM2499045v1_genomic,ST37,KL118,unknown (KL118),Typeable,OL13,O13,-,-,-,0,0,False
+GCF_024989915.1_ASM2498991v1_genomic,ST1786,KL38,K38,Typeable,OL3γ,O3γ,-,-,CTX-M-14,1,0,False
+GCF_024990925.1_ASM2499092v1_genomic,ST364,KL166,unknown (KL166),Typeable,OL2α.2,"O1αβ,2β",-,-,CTX-M-15,1,0,False
+GCF_024990915.1_ASM2499091v1_genomic,ST25,KL2,K2,Typeable,OL2α.2,"O1αβ,2β",-,-,-,0,0,False
+GCF_024990895.1_ASM2499089v1_genomic,ST711,KL54,K54,Typeable,OL2α.2,"O1αβ,2β",-,-,CTX-M-15,1,1,False
+GCF_024990875.1_ASM2499087v1_genomic,ST966,KL102,unknown (KL102),Typeable,OL2α.1,O2α,-,-,-,0,0,False
+GCF_024990585.1_ASM2499058v1_genomic,ST307,KL102,unknown (KL102),Typeable,OL2α.2,O2β,-,-,CTX-M-15,1,0,False
+GCF_024990555.1_ASM2499055v1_genomic,ST219,KL114,unknown (KL114),Typeable,OL2α.1,"O1αβ,2α",-,-,CTX-M-15,1,1,False
+GCF_024990835.1_ASM2499083v1_genomic,ST15,KL166,unknown (KL166),Typeable,OL2α.2,"O1αβ,2β",OmpK35:p.Gly75fs,-,-,0,0,False
+GCF_024990295.1_ASM2499029v1_genomic,ST17,KL23,K23,Typeable,OL2α.2,O2β,-,-,CTX-M-15,1,0,False
+GCF_024990265.1_ASM2499026v1_genomic,ST15,KL112,unknown (KL112),Typeable,OL2α.1,"O1αβ,2α",OmpK35:c.G939del,-,-,0,1,False
+GCF_024990215.1_ASM2499021v1_genomic,ST15,KL24,K24,Typeable,OL2α.1,"O1αβ,2α",OmpK35:p.Ala229fs,-,CTX-M-15,1,1,False
+GCF_024990195.1_ASM2499019v1_genomic,ST607,KL25,K25,Typeable,OL2α.1,"O1αβ,2α",-,-,CTX-M-15,1,1,False
+GCF_024990155.1_ASM2499015v1_genomic,ST607,KL25,K25,Typeable,OL2α.1,"O1αβ,2α",-,-,CTX-M-15,1,1,False
+GCF_024990105.1_ASM2499010v1_genomic,ST14,KL2,K2,Typeable,OL2α.1,"O1αβ,2α",-,-,CTX-M-15,1,0,False
+GCF_024990435.1_ASM2499043v1_genomic,ST48,KL62,K62,Typeable,OL2α.1,"O1αβ,2α",-,-,CTX-M-15,1,1,False
+GCF_024989945.1_ASM2498994v1_genomic,ST55,KL50,K50,Typeable,OL3γ,O3γ,-,-,CTX-M-98,1,0,False
+GCA_024990675.1_ASM2499067v1_genomic,ST4238-1LV,KL117,Capsule null,Typeable,OL2α.2,O2α,OmpK35:p.Ser248fs,-,-,0,0,False
+GCA_024990575.1_ASM2499057v1_genomic,ST6933-2LV,KL118,Capsule null,Typeable,OL13,O13,OmpK35:p.Arg97fs;OmpK36:p.Gly182fs,-,-,0,0,False
+GCA_024990465.1_ASM2499046v1_genomic,ST416-4LV,KL30,Capsule null,Typeable,OL2α.2,O2α,OmpK35:p.Lys176fs;OmpK36:p.Lys4fs,-,-,0,0,False
+GCA_024990525.1_ASM2499052v1_genomic,ST2279-1LV,KL3,Capsule null,Typeable,OL2α.2,O2β,-,-,CTX-M-15,1,0,False
+GCA_024990735.1_ASM2499073v1_genomic,ST540-3LV,KL13,Capsule null,Typeable,OL2α.1,O2α,OmpK35:p.Glu107fs;OmpK36:p.Lys4fs,-,-,0,0,False
+GCA_024990995.1_ASM2499099v1_genomic,ST3717-1LV,KL57,Capsule null,Typeable,OL2α.2,"O1α,2α",-,-,CTX-M-15;CTX-M-15,1,0,False
+GCA_024990775.1_ASM2499077v1_genomic,ST540-2LV,KL13,K13,Typeable,OL2α.1,O2α,-,-,-,0,0,False
+GCA_024990855.1_ASM2499085v1_genomic,ST397-2LV,KL158,Capsule null,Typeable,OL2α.1,"O1α,2α",-,-,-,0,0,False
+GCA_024990955.1_ASM2499095v1_genomic,ST607-1LV,KL25,Capsule null,Typeable,OL2α.1,"O1αβ,2α",-,-,CTX-M-15,1,1,False
+GCA_024991015.1_ASM2499101v1_genomic,ST147-1LV,KL64,Capsule null,Typeable,OL2α.1,O2α,OmpK36:p.136_137insThrAsp;OmpK35:c.A824del,OXA-181,CTX-M-15;CTX-M-15,2,1,True
+GCA_024990305.1_ASM2499030v1_genomic,ST394-1LV,KL3,Capsule null,Typeable,OL2α.2,O2α,-,-,-,0,0,False
+GCA_024989175.1_ASM2498917v1_genomic,,KL22,Capsule null,Typeable,OL2α.1,O2α,OmpK35:p.Leu15fs;OmpK36:p.Lys4fs,-,-,0,0,False
+GCA_024989115.1_ASM2498911v1_genomic,ST45-4LV,KL24,Capsule null,Typeable,OL2α.1,O2α,OmpK35:p.Arg184fs;OmpK36:p.His42fs,-,-,0,0,False
+GCA_024988995.1_ASM2498899v1_genomic,ST5599,KL38,Capsule null,Typeable,OL2α.1,"O1α,2α",-,-,-,0,0,False
+GCA_024988915.1_ASM2498891v1_genomic,ST105-1LV,KL39,Capsule null,Typeable,OL2α.1,O2α,-,-,-,0,0,False
+GCA_024988895.1_ASM2498889v1_genomic,ST107-1LV,KL142,Capsule null,Typeable,OL2α.1,O2α,-,-,-,0,0,False
+GCA_024988875.1_ASM2498887v1_genomic,ST29-2LV,KL30,Capsule null,Typeable,OL2α.2,"O1αβ,2α",-,-,-,0,0,False
+GCA_024988855.1_ASM2498885v1_genomic,ST35-2LV,KL16,Capsule null,Typeable,OL2α.1,"O1αβ,2α",OmpK36:p.Ala183fs,-,CTX-M-15,1,1,False
+GCA_024988825.1_ASM2498882v1_genomic,ST35-2LV,KL16,Capsule null,Typeable,OL2α.1,O2α,OmpK35:p.Gly30fs,-,-,0,1,False
+GCA_024988815.1_ASM2498881v1_genomic,ST17,KL155,Capsule null,Typeable,OL13,O13,-,-,CTX-M-15,1,1,False
+GCA_024988715.1_ASM2498871v1_genomic,ST198-1LV,KL62,Capsule null,Typeable,OL2α.1,"O1α,2α",-,-,-,0,0,False
+GCA_022539575.1_ASM2253957v1_genomic,ST37-4LV,KL21,Capsule null,Typeable,OL3γ,O3γ,OmpK35:p.Lys95fs,-,-,0,0,False
+GCA_024989405.1_ASM2498940v1_genomic,ST76-2LV,KL35,Capsule null,Typeable,OL5,O5,-,-,-,0,0,False
+GCA_024990175.1_ASM2499017v1_genomic,ST218-1LV,KL57,Capsule null,Typeable,OL2α.2,O2α,-,-,-,0,3,False
+GCA_024989985.1_ASM2498998v1_genomic,,KL23,Capsule null,Typeable,OL2α.2,O2α,OmpK35:p.Gly18fs;OmpK36:p.Ala151fs,-,-,0,0,False
+GCA_024989935.1_ASM2498993v1_genomic,ST37-2LV,KL12,Capsule null,Typeable,OL10,O10,OmpK35:p.Ile120fs,-,-,0,0,False
+GCA_024989735.1_ASM2498973v1_genomic,ST490-4LV,KL3,Capsule null,Typeable,OL2α.2,O2α,OmpK35:p.Thr127fs;OmpK36:p.Thr152fs,-,-,0,0,False
+GCA_024989695.1_ASM2498969v1_genomic,,KL52,Capsule null,Typeable,OL13,O13,OmpK35:p.Asn21fs;OmpK36:p.Ala19fs,-,-,0,1,False
+GCA_024989535.1_ASM2498953v1_genomic,ST3397-1LV,KL8,Capsule null,Typeable,OL2α.2,O2α,-,-,-,0,0,False
+GCA_024989495.1_ASM2498949v1_genomic,,KL18,Capsule null,Typeable,OL2α.1,O2α,OmpK35:p.Gly30fs;OmpK36:p.Lys4fs,-,-,0,0,False
+GCA_024989475.1_ASM2498947v1_genomic,,KL30,Capsule null,Typeable,OL2α.2,O2α,OmpK35:p.Ile25fs;OmpK36:p.Asp33fs,-,-,0,0,False

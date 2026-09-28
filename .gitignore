@@ -1,8 +1,11 @@
-data/
+data/*
+!data/phage_sequences/
 *.zip
-*.fasta
-*.fa
 ncbi_dataset/
 __pycache__/
 *.pyc
 .DS_Store
+venv/
+Miniforge3-MacOSX-x86_64.sh
+accessions.txt
+*.save

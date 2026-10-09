@@ -9,3 +9,7 @@ venv/
 Miniforge3-MacOSX-x86_64.sh
 accessions.txt
 *.save
+!data/structures/
+data/structures/*/*
+!data/structures/*/*_model_0.cif
+!data/structures/*/*_full_data_0.json

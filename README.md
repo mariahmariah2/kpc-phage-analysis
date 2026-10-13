@@ -26,9 +26,6 @@ No confirmed KPC-positive Kenyan *K. pneumoniae* genome exists in the public rec
 - The analysis rests on two carbapenemase-positive isolates from one dataset.
 - A set of 15 Western Kenya isolates (Dinda et al. 2024) and a training-exercise dataset (PRJNA915250) have been identified but not analysed.
 
-## Next phase
-
-Design for true resistance reversal (phage steering): choose a receptor mechanistically coupled to carbapenem resistance, so that escaping the phage costs the bacterium its resistance.
 
 ## Repository layout
 
